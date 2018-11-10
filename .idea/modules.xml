@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cnn1017.iml" filepath="$PROJECT_DIR$/.idea/cnn1017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dataset1018/.idea/dataset1018.iml" filepath="$PROJECT_DIR$/../dataset1018/.idea/dataset1018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keras1021/.idea/keras1021.iml" filepath="$PROJECT_DIR$/../keras1021/.idea/keras1021.iml" />
+    </modules>
+  </component>
+</project>
