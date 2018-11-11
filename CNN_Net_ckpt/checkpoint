@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Pycharmprojects\\CNN_Net\\CNN_Net_ckpt\\1_ckpt"
+all_model_checkpoint_paths: "E:\\Pycharmprojects\\CNN_Net\\CNN_Net_ckpt\\1_ckpt"
